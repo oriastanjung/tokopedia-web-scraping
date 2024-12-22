@@ -1,0 +1,2212 @@
+[
+    {
+        "data": {
+            "searchProductV5": {
+                "data": {
+                    "products": [
+                        {
+                            "name": "ASUS ROG Ally Ryzen Z1 / Ryzen Z1 Extreme 16GB 512GB 7\" FHD 120Hz W11",
+                            "url": "https://www.tokopedia.com/spacetech/asus-rog-ally-ryzen-z1-ryzen-z1-extreme-16gb-512gb-7-fhd-120hz-w11-z1-79138?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7399000
+                            },
+                            "shop": {
+                                "name": "Space Tech",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JVR I9 14900HX RTX4060 16GB 1TB 16\" QHD W11 OHS",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-strix-g16-g614jvr-i9-14900hx-rtx4060-16gb-1tb-16-qhd-w11-ohs-ddr5-16gb-2b66b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 31699000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW X13 GV302XA R9-7940HS 16GB 1TB 780M W11 13.4\"WUXGA TOUCH",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-flow-x13-gv302xa-r9-7940hs-16gb-1tb-780m-w11-13-4-wuxga-touch-512ssd-non-bundling-799e8?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 16699000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ALLY X RC72LA AMD Z1 EXTREME 24GB 1TB W11 7\" FHD 120HZ",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-ally-x-rc72la-amd-z1-extreme-24gb-1tb-w11-7-fhd-120hz-rog-ally-x-700d2?extParam=cmp%3D1%26ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 13999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA402NJ-R735A6G-O Ryzen 7-7735HS RTX3050 16GB 512GB 14\" FHD W11 - Eclipse Gray",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-zephyrus-g14-ga402nj-r735a6g-o-ryzen-7-7735hs-rtx3050-16gb-512gb-14-fhd-w11-eclipse-gray-laptop-16-512gb-06617?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G16 GU605MI ULTRA 9 185H RTX4070 - 16GB 2TB 16\" 240Hz OLED",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-zephyrus-g16-gu605mi-ultra-9-185h-rtx4070-16gb-2tb-16-240hz-oled-16gb-1tbssd-non-bdundling-71b5c?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32699000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713PV RYZEN 9 7945HX 32G 1TB RTX4060 8G W11 17\"QHD",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-strix-g17-g713pv-ryzen-9-7945hx-32g-1tb-rtx4060-8g-w11-17-qhd-non-bundling-16gb-befa9?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20799000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Ally RC71L-R2RADA6W Ryzen Z1 Extreme 16GB 512GB 7\" FHD 120Hz W11",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-ally-rc71l-r2rada6w-ryzen-z1-extreme-16gb-512gb-7-fhd-120hz-w11-unit-only-2f3a3?extParam=cmp%3D1%26ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JU i7-13650HX 16GB 512GB RTX4050 6GB OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-strix-g16-g614ju-i7-13650hx-16gb-512gb-rtx4050-6gb-ohs-w11-ddr5-16gb-unit-68026?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22299000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713PV AMD RYZEN 9 7845 RTX4060 64GB 1TB SSD 17\"QHD",
+                            "url": "https://www.tokopedia.com/rogsstoreid/asus-rog-strix-g17-g713pv-amd-ryzen-9-7845-rtx4060-64gb-1tb-ssd-17-qhd-laptop-16gb-1tbssd-72b80?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20799000
+                            },
+                            "shop": {
+                                "name": "ROGS STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW X13 GV302XA TOUCH RYZEN 9 7940 RX780M 16GB 1TB 13.4FHD",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-flow-x13-gv302xa-touch-ryzen-9-7940-rx780m-16gb-1tb-13-4fhd-non-bundle-16gb-1tb-ssd-f6a80?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 17599000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 GU605MI OLED RTX4070 Ultra 9 185H 16GB 1TB 240Hz",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g16-gu605mi-oled-rtx4070-ultra-9-185h-16gb-1tb-240hz-unit-0d117?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32689000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G16 OLED GU605MI-I947OL6G-O ULTRA 9 185H 32GB 1TB SSD RTX4070 8GB W11 OHS 16\" NEBULA 2.5K 240HZ - Eclipse Grey",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-zephyrus-g16-oled-gu605mi-i947ol6g-o-ultra-9-185h-32gb-1tb-ssd-rtx4070-8gb-w11-ohs-16-nebula-2-5k-240hz-eclipse-grey-laptop-3bda0?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 43999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G16 G614JU i7-13650HX RTX4050 16G 512G 16\"FHD 165Hz W11",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-strix-g16-g614ju-i7-13650hx-rtx4050-16g-512g-16-fhd-165hz-w11-eclipse-gray-593d1?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22299000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX SCAR 16 G634JY RTX4090 16GB - i9 13980HX 64GB 2TB 16\" 240Hz",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-strix-scar-16-g634jy-rtx4090-16gb-i9-13980hx-64gb-2tb-16-240hz-32gb-2tbssd-non-bundling-2eae4?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 42499000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ALLY Z1 EXTREME 2023 16GB 512GB SSD WIN 11 7FHD 120Hz",
+                            "url": "https://www.tokopedia.com/expocomp/asus-rog-ally-z1-extreme-2023-16gb-512gb-ssd-win-11-7fhd-120hz-tetap-512gb-026fa?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7793000
+                            },
+                            "shop": {
+                                "name": "ExpoComp",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW Z13 GZ301VU i9-13900H 16GB 1TB RTX4050 6GB 13.4\" OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-flow-z13-gz301vu-i9-13900h-16gb-1tb-rtx4050-6gb-13-4-ohs-w11?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 28499000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G16 G614JU i7-13650HX RTX4050 512GB SSD 16GB FHD+ 165Hz",
+                            "url": "https://www.tokopedia.com/sinarmulia/asus-rog-strix-g16-g614ju-i7-13650hx-rtx4050-512gb-ssd-16gb-fhd-165hz-16gb-standar-tanpa-antigores-e6ef4?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22299000
+                            },
+                            "shop": {
+                                "name": "Sinarmulia Sukses Makmur",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 GA402RK Ryzen 9-6900HS 32GB 1TB SSD RX6800S 8GB",
+                            "url": "https://www.tokopedia.com/gateway/asus-rog-zephyrus-g14-ga402rk-ryzen-9-6900hs-32gb-1tb-ssd-rx6800s-8gb-non-bundling-32gb-6f898?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 19799000
+                            },
+                            "shop": {
+                                "name": "Gateway Indonesia Comp",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Zephyrus G14 GA402RJ RX6700 RYZEN 9-6900 40GB 1TB SSD 14.0QHD",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g14-ga402rj-rx6700-ryzen-9-6900-40gb-1tb-ssd-14-0qhd-16gb-1tb-ssd-tanpa-antigores?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 17499000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Ally AMD Z1 Extreme 16Gb 512Gb 7.0FHD 120Hz",
+                            "url": "https://www.tokopedia.com/agresidbandung/asus-rog-ally-amd-z1-extreme-16gb-512gb-7-0fhd-120hz?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7799000
+                            },
+                            "shop": {
+                                "name": "Agres ID Bandung",
+                                "city": "Bandung"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G16 GU603VV CORE i7 13620H 24GB 1TB RTX4060 8GB 16\"",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-zephyrus-g16-gu603vv-core-i7-13620h-24gb-1tb-rtx4060-8gb-16-unit-16-1-tb-a232f?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21799000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ALLY X AMD Z1 EXTREME 24GB 1TB W11 7.0FHD 120HZ BLK",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-ally-x-amd-z1-extreme-24gb-1tb-w11-7-0fhd-120hz-blk-rog-ally-x-6a53a?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 13999000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713PV RYZEN 9 7845HX RTX4060 16GB 1TB W11 17.3QHD",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-strix-g17-g713pv-ryzen-9-7845hx-rtx4060-16gb-1tb-w11-17-3qhd-unit-4959c?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20789000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA403UV R9-8945HS RTX4060 16GB 1TB 14\" OLED W11",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-zephyrus-g14-ga403uv-r9-8945hs-rtx4060-16gb-1tb-14-oled-w11-ram-16gb-14c9f?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32999000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JVR I9 14900HX RTX4060 16GB 1TB W11+OHS 16\" QHD",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-strix-g16-g614jvr-i9-14900hx-rtx4060-16gb-1tb-w11-ohs-16-qhd-non-bundle-windows-11-home-1db3d?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 31699000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow X13 GV302XA Touch Ryzen 9 RX780M 16Gb 1tb W11 13.4 120Hz",
+                            "url": "https://www.tokopedia.com/decacom/asus-rog-flow-x13-gv302xa-touch-ryzen-9-rx780m-16gb-1tb-w11-13-4-120hz-non-bundle-512gb-ssd-91560?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 16699000
+                            },
+                            "shop": {
+                                "name": "Deca Computer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G614JU RTX4050 i7 13650HX RAM 16GB 512SSD W11 + OHS",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-strix-g614ju-rtx4050-i7-13650hx-ram-16gb-512ssd-w11-ohs-non-bundle?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22299000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX SCAR 18 G834JYR I9 14900HX 32GB 2TB RTX4090 16G OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-strix-scar-18-g834jyr-i9-14900hx-32gb-2tb-rtx4090-16g-ohs-w11-ddr5-32gb-unit-61b2e?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 76199000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 OLED GA403UU RYZEN 7 8845HS RTX4050 6GB Nebula",
+                            "url": "https://www.tokopedia.com/amd-id/asus-rog-zephyrus-g14-oled-ga403uu-ryzen-7-8845hs-rtx4050-6gb-nebula-eclipse-grey-standard-dfe3a?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29399000
+                            },
+                            "shop": {
+                                "name": "AMD Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow X13 GV301QE RTX3050TI TOUCH RYZEN 9 R9 5900 16GB 1TBssd",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-flow-x13-gv301qe-rtx3050ti-touch-ryzen-9-r9-5900-16gb-1tbssd-promo-f8821?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 17789000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW Z13 GZ301VU GeForce RTX 4050 - I9 13900H 16GB 13QHD TOUCH OHS",
+                            "url": "https://www.tokopedia.com/nvidiageforcelt/asus-rog-flow-z13-gz301vu-geforce-rtx-4050-i9-13900h-16gb-13qhd-touch-ohs-tanpa-antigores-c8b1d?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 28499000
+                            },
+                            "shop": {
+                                "name": "NVIDIA GeForce Laptop",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 GA402NJ GeForce RTX 3050 - RYZEN 7 7735HS 16GB 512 OHS",
+                            "url": "https://www.tokopedia.com/nvidiageforcelt/asus-rog-zephyrus-g14-ga402nj-geforce-rtx-3050-ryzen-7-7735hs-16gb-512-ohs-tanpa-antigores-16gb-ddr5-be587?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "NVIDIA GeForce Laptop",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713RW RTX3070TI RYZEN 9 6900 64GB 1TB 17.3\"QHD",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-strix-g17-g713rw-rtx3070ti-ryzen-9-6900-64gb-1tb-17-3-qhd-unit-32gb-1tb-f0e79?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 19599000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG STRIX G16 G614JU RTX4050 6GB/i7 13650HX 16gb 512256 W11 + OHS",
+                            "url": "https://www.tokopedia.com/agresidsurabaya/asus-rog-strix-g16-g614ju-rtx4050-6gb-i7-13650hx-16gb-512256-w11-ohs-non-paket-16-512-4f80c?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22299000
+                            },
+                            "shop": {
+                                "name": "Agres ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Flow X13 GV302XA Touch Ryzen 9 7940 RX780M 16GB 1TB W11 120HZ",
+                            "url": "https://www.tokopedia.com/envicstore/asus-rog-flow-x13-gv302xa-touch-ryzen-9-7940-rx780m-16gb-1tb-w11-120hz-standart-16gb-1tb-6c73b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 17599000
+                            },
+                            "shop": {
+                                "name": "EnVicStore",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G16 GU605MZ RTX4080 GU605MZ ULTRA 9 185H 32GB 2TB W11 16\" 240HZ",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-zephyrus-g16-gu605mz-rtx4080-gu605mz-ultra-9-185h-32gb-2tb-w11-16-240hz-non-bundle-windows-11-home-dd7f6?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 55999000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JI RTX4070 CORE I7 13650 32GB 1TB W11 16.0FHD IPS",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-strix-g16-g614ji-rtx4070-core-i7-13650-32gb-1tb-w11-16-0fhd-ips-unit-ram-16-gb-81b92?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 23899000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix Scar G18 G814JU-JV RTX4050-4060 6-8GB I7 13650HX 16GB",
+                            "url": "https://www.tokopedia.com/gameridsurabaya/asus-rog-strix-scar-g18-g814ju-jv-rtx4050-4060-6-8gb-i7-13650hx-16gb-rtx4050-6gb-acc?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 24349000
+                            },
+                            "shop": {
+                                "name": "Gamer ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW X13 GV302XV GeForce RTX 4060 - RYZEN 9 7940HS 16GB 1TB OHS",
+                            "url": "https://www.tokopedia.com/nvidiageforcelt/asus-rog-flow-x13-gv302xv-geforce-rtx-4060-ryzen-9-7940hs-16gb-1tb-ohs-tanpa-antigores-16gb-ddr5-441f3?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 30299000
+                            },
+                            "shop": {
+                                "name": "NVIDIA GeForce Laptop",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus AI G16 OLED GA605WV Ryzen AI 9 HX370 RTX4060 8GB 32GB 1TB W11+OHS 16 2.5K 240Hz",
+                            "url": "https://www.tokopedia.com/amd-id/asus-rog-zephyrus-ai-g16-oled-ga605wv-ryzen-ai-9-hx370-rtx4060-8gb-32gb-1tb-w11-ohs-16-2-5k-240hz-32gb-1tb-standard-91d6d?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 38699000
+                            },
+                            "shop": {
+                                "name": "AMD Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 OLED GA403UV RYZEN 9 8945HS RTX4060 16GB 1TB W11",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-zephyrus-g14-oled-ga403uv-ryzen-9-8945hs-rtx4060-16gb-1tb-w11-non-bundle-32gb-tas-mouse-90787?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 36349000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus Gaming ROG Strix G531GD/ Core i7-9750H, 8/1Tb/ VRAM 4Gb/ Mulus",
+                            "url": "https://www.tokopedia.com/drcomkomputer/asus-gaming-rog-strix-g531gd-core-i7-9750h-8-1tb-vram-4gb-mulus?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 9750000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 GA402XV RYZEN 9 7940 RTX4060 16GB 1TB W11 165HZ",
+                            "url": "https://www.tokopedia.com/prostorecomputer/asus-rog-zephyrus-g14-ga402xv-ryzen-9-7940-rtx4060-16gb-1tb-w11-165hz-ram-16gb-1tbssd-promo-db8d5?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 23499000
+                            },
+                            "shop": {
+                                "name": "ProStoreComputer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G18 G814JU i7-13650HX 16GB 512GB RTX4050 6GB OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-strix-g18-g814ju-i7-13650hx-16gb-512gb-rtx4050-6gb-ohs-w11-ddr5-16gb-unit-8bab1?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 24149000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Laptop Slim Gaming Asus ROG Zephyrus G14 ANIME MATRIX GA401II R75TA8W",
+                            "url": "https://www.tokopedia.com/dasirdeptelektro/laptop-slim-gaming-asus-rog-zephyrus-g14-anime-matrix-ga401ii-r75ta8w-eclipse-grey-ram-8gb-1e692?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 13700000
+                            },
+                            "shop": {
+                                "name": "Dasir Dept Elektronik",
+                                "city": "Bandung"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 2024 GA403UU R7 8845HS RTX4050 16GB 1TB 14\" OLED",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-zephyrus-g14-2024-ga403uu-r7-8845hs-rtx4050-16gb-1tb-14-oled-non-bundling-eclipe-grey-41612?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29399000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G18 G814JV i7-13650HX 16GB 512GB RTX4060 8GB OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-strix-g18-g814jv-i7-13650hx-16gb-512gb-rtx4060-8gb-ohs-w11-ddr5-16gb-unit-331e9?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 27949000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS M16 GU603ZW I9 12900H RTX3070TI 24GB 1TB 16QHD 165HZ",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-m16-gu603zw-i9-12900h-rtx3070ti-24gb-1tb-16qhd-165hz-16gb-unit-only-5cb75?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 27499000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow X13 GV302XI Ryzen 9-7940HS RTX4070 32GB 1TB SSDWin11+OHS",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-flow-x13-gv302xi-ryzen-9-7940hs-rtx4070-32gb-1tb-ssdwin11-ohs-unit-bb3de?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 34449000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G16 GU605MV Ultra 9 185H RTX4060 32GB 1TB 16\" 240Hz OLED W11 OHS",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-zephyrus-g16-gu605mv-ultra-9-185h-rtx4060-32gb-1tb-16-240hz-oled-w11-ohs-grey-c48a0?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 37799000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA402NJ Ryzen 7-7735HS RTX3050 512GB 14\" FHD W11",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-zephyrus-g14-ga402nj-ryzen-7-7735hs-rtx3050-512gb-14-fhd-w11-ram-16gb-qhd-8b216?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G16 G614JV rtx4060 i7 13650HX 32GB 1TB SSD W11 165Hz",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-strix-g16-g614jv-rtx4060-i7-13650hx-32gb-1tb-ssd-w11-165hz-16gb-1tbssd-unit?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22999000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G16 G614JU-I745J6G-O Core i7-13650HX 16GB 512GB SSD RTX4050 6GB 16\" FHD Win 11 OHS - Eclipse Gray",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-strix-g16-g614ju-i745j6g-o-core-i7-13650hx-16gb-512gb-ssd-rtx4050-6gb-16-fhd-win-11-ohs-eclipse-gray-laptop-16-512gb-85864?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 23899000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ALLY RC71L AMD Ryzen Z1 Extreme Windows 11 Gaming Console - Z1 EXTREME",
+                            "url": "https://www.tokopedia.com/morelifesneaks/asus-rog-ally-rc71l-amd-ryzen-z1-extreme-windows-11-gaming-console-z1-extreme?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7649000
+                            },
+                            "shop": {
+                                "name": "morelife.sneakers",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 GA402NJ RYZEN 7-7735HS 16GB 512G RTX3050 6GB W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-zephyrus-g14-ga402nj-ryzen-7-7735hs-16gb-512g-rtx3050-6gb-w11-ddr5-16gb-unit-3e7ca?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA402XZ Anime Matrix RTX4080 12G | R9 7940HS 32GB 165Hz",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-zephyrus-g14-ga402xz-anime-matrix-rtx4080-12g-r9-7940hs-32gb-165hz-32gb-1tbssd-non-bundling-9ec7b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 38799000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Flow X13 (2023) GV302XA Touch Ryzen 9 7940 RX780M 16GB 1TB",
+                            "url": "https://www.tokopedia.com/rogsstoreid/asus-rog-flow-x13-2023-gv302xa-touch-ryzen-9-7940-rx780m-16gb-1tb-standard-16gb-512-ssd-10e37?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 16699000
+                            },
+                            "shop": {
+                                "name": "ROGS STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Flow X13 GV302XA Touch Ryzen 9 7940 RX780M 16gb 1TB W11 120Hz",
+                            "url": "https://www.tokopedia.com/gaminglaptopid/asus-rog-flow-x13-gv302xa-touch-ryzen-9-7940-rx780m-16gb-1tb-w11-120hz-standar-16gb-512g-e01b1?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 16699000
+                            },
+                            "shop": {
+                                "name": "Gaming Laptop ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G614JV RTX 4060 i7 13650HX RAM 16GB 1TB SSD 165Hz W11",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-strix-g614jv-rtx-4060-i7-13650hx-ram-16gb-1tb-ssd-165hz-w11-non-bundle-qhd-240hz-a2946?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 26299000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JV I9 13980 RTX4060 8GB/ 32GB 1TB W11 16.0FHD",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-strix-g16-g614jv-i9-13980-rtx4060-8gb-32gb-1tb-w11-16-0fhd-unit-f7b11?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 24599000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG ZEPHYRUS AI G16 OLED GA605WI Ryzen AI 9 HX370 RTX4070 8GB/ 32GB 1TB W11+OHS 16\" QHD 240HZ GRY -R947OL6G-OM",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-zephyrus-ai-g16-oled-ga605wi-ryzen-ai-9-hx370-rtx4070-8gb-32gb-1tb-w11-ohs-16-qhd-240hz-gry-r947ol6g-om-unit-2070f?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 45999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Strix G16 G614JV RTX4060 8GB I7 13650HX 16GB 1TBSSD W11+Ohs",
+                            "url": "https://www.tokopedia.com/gameridsurabaya/asus-rog-strix-g16-g614jv-rtx4060-8gb-i7-13650hx-16gb-1tbssd-w11-ohs-non-paket-qhd-af713?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29699000
+                            },
+                            "shop": {
+                                "name": "Gamer ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW X16 GV601RW TOUCH RYZEN 9 6900 RTX3070Ti 8GB/ 32GB 1TB W11PRO 16.0QHD",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-flow-x16-gv601rw-touch-ryzen-9-6900-rtx3070ti-8gb-32gb-1tb-w11pro-16-0qhd-unit-7ab55?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20199000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 OLED GA403UI R9 8945HS RTX4070 32GB 1TB 14QHD ",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g14-oled-ga403ui-r9-8945hs-rtx4070-32gb-1tb-14qhd-unit-5def0?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 39999000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JV RTX4060 CORE i9 13980HX 64GB 2TB 16\" FHD",
+                            "url": "https://www.tokopedia.com/rogsstoreid/asus-rog-strix-g16-g614jv-rtx4060-core-i9-13980hx-64gb-2tb-16-fhd-standard-32gb-1tb-ssd-13f1c?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 24499000
+                            },
+                            "shop": {
+                                "name": "ROGS STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G16 G614JU i5-13450HX 16GB 512GB RTX4050 6G 16\" W11 OHS",
+                            "url": "https://www.tokopedia.com/wei-1/asus-rog-strix-g16-g614ju-i5-13450hx-16gb-512gb-rtx4050-6g-16-w11-ohs-i545j6g-o-grey-16gb-ram?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21399000
+                            },
+                            "shop": {
+                                "name": "WE iTech",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Strix G16 I9 14900HX RTX4070-4080 8-12GB 32GB 1TBSSD W11+Ohs",
+                            "url": "https://www.tokopedia.com/gameridsurabaya/asus-rog-strix-g16-i9-14900hx-rtx4070-4080-8-12gb-32gb-1tbssd-w11-ohs-non-paket-4070-8gb-7ceb9?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 42599000
+                            },
+                            "shop": {
+                                "name": "Gamer ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow Z13 GZ301VU I9 13900H RTX4050 16Gb 1TB 13.4QHD Touch",
+                            "url": "https://www.tokopedia.com/agresidbandung/asus-rog-flow-z13-gz301vu-i9-13900h-rtx4050-16gb-1tb-13-4qhd-touch-no-paket-no-upgrade-c5899?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 28499000
+                            },
+                            "shop": {
+                                "name": "Agres ID Bandung",
+                                "city": "Bandung"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA403UV Ryzen 9 8945HS RTX4060 1TB SSD 32GB 3K OLED Win11+OHS",
+                            "url": "https://www.tokopedia.com/sinarmulia/asus-rog-zephyrus-g14-ga403uv-ryzen-9-8945hs-rtx4060-1tb-ssd-32gb-3k-oled-win11-ohs-eclipse-grey-tanpa-antigores-e3e40?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 35999000
+                            },
+                            "shop": {
+                                "name": "Sinarmulia Sukses Makmur",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Zephyrus G16 GU603VI RTX4070 8GB I9 13900H 16GB 1TBSSD W11",
+                            "url": "https://www.tokopedia.com/gameridsurabaya/asus-rog-zephyrus-g16-gu603vi-rtx4070-8gb-i9-13900h-16gb-1tbssd-w11-acc-antigores-f945a?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 35399000
+                            },
+                            "shop": {
+                                "name": "Gamer ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix Scar 17 G733PY RTX4090 RYZEN 9 7945HX 32GB 2TBSSD 240Hz",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-strix-scar-17-g733py-rtx4090-ryzen-9-7945hx-32gb-2tbssd-240hz-non-bundle-windows-11-home-80359?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 55499000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G614JU GeForce RTX 4050 - I7 13650HX 16GB/16GB 512SSD OHS",
+                            "url": "https://www.tokopedia.com/nvidiageforcelt/asus-rog-strix-g614ju-geforce-rtx-4050-i7-13650hx-16gb-16gb-512ssd-ohs-tanpa-antigores-ram-16gb-0eadd?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22299000
+                            },
+                            "shop": {
+                                "name": "NVIDIA GeForce Laptop",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713RW RYZEN 9 6900 RTX3070TI 32GB 1TBSSD W11 240HZ",
+                            "url": "https://www.tokopedia.com/prostorecomputer/asus-rog-strix-g17-g713rw-ryzen-9-6900-rtx3070ti-32gb-1tbssd-w11-240hz-ram-32gb-1tbssd-laptop-7fe8d?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 19599000
+                            },
+                            "shop": {
+                                "name": "ProStoreComputer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G16 GU605MV Ultra 9 185H RTX4060 16G 1T 16\"2.5K OLED",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-zephyrus-g16-gu605mv-ultra-9-185h-rtx4060-16g-1t-16-2-5k-oled-unit-f5d47?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 37799000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G16 GU605MV Ultra 9 185H RTX4060 1TB SSD 16\"2.5K OLED W11 OHS",
+                            "url": "https://www.tokopedia.com/wei-1/asus-rog-zephyrus-g16-gu605mv-ultra-9-185h-rtx4060-1tb-ssd-16-2-5k-oled-w11-ohs-i946ollg-o-grey-16gb-ram-dfd35?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 34999000
+                            },
+                            "shop": {
+                                "name": "WE iTech",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG G531GT i7 SSD 512gb TAM GAMING",
+                            "url": "https://www.tokopedia.com/izzahgraha/asus-rog-g531gt-i7-ssd-512gb-tam-gaming?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 8575000
+                            },
+                            "shop": {
+                                "name": "izzah graha",
+                                "city": "Kab. Sukoharjo"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX SCAR 18 G834JYR I9 14900HX RTX4090 32GB 2TB W11+OHS 18\"",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-strix-scar-18-g834jyr-i9-14900hx-rtx4090-32gb-2tb-w11-ohs-18-non-bundle-09b97?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 76199000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix SCAR 15 G533ZM I7-12700H 16GB 512GB RTX3060 300Hz W11 OHS",
+                            "url": "https://www.tokopedia.com/wei-1/asus-rog-strix-scar-15-g533zm-i7-12700h-16gb-512gb-rtx3060-300hz-w11-ohs-16gb-ram-8f8fc?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 27799000
+                            },
+                            "shop": {
+                                "name": "WE iTech",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 GA403UV-R946OL7W-O AMD Ryzen 9-8945HS 32GB 1TB SSD RTX4060 8GB 14″ 3K OLED Win 11  OHS - Platinum White",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-zephyrus-g14-ga403uv-r946ol7w-o-amd-ryzen-9-8945hs-32gb-1tb-ssd-rtx4060-8gb-14-3k-oled-win-11-ohs-platinum-white-laptop-b3f17?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 37999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX SCAR 15 G533ZM I9-12900H 16GB 1TB RTX3060 300Hz W11 OHS",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-strix-scar-15-g533zm-i9-12900h-16gb-1tb-rtx3060-300hz-w11-ohs?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 35999000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG ZEPHYRUS G14 GA402NJ RYZEN 7 7735HS RTX3050 6GB/ 16gb 512gb W11 + OHS 14.0QHD 120HZ GRY -R735A6G-O",
+                            "url": "https://www.tokopedia.com/agresidsurabaya/asus-rog-zephyrus-g14-ga402nj-ryzen-7-7735hs-rtx3050-6gb-16gb-512gb-w11-ohs-14-0qhd-120hz-gry-r735a6g-o-non-paket-16-512-350c1?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "Agres ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX SCAR G16 G614J RTX4080 12GB I9 14900HX 32GB 1TB 240HZ",
+                            "url": "https://www.tokopedia.com/ten-com/asus-rog-strix-scar-g16-g614j-rtx4080-12gb-i9-14900hx-32gb-1tb-240hz-rtx4060-8gb-3d7a5?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 31689000
+                            },
+                            "shop": {
+                                "name": "Ten Com",
+                                "city": "Jakarta Selatan"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA402NJ Ryzen 7-7735HS RTX3050 512GB 14\" QHD 120Hz W11 OHS",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-zephyrus-g14-ga402nj-ryzen-7-7735hs-rtx3050-512gb-14-qhd-120hz-w11-ohs-ram-16gb-513b8?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G16 G614JVR i9-14900HX 1T RTX4060 16\"QHD+ 240Hz W11 OHS",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-strix-g16-g614jvr-i9-14900hx-1t-rtx4060-16-qhd-240hz-w11-ohs-ram-16gb-da7a2?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 31699000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG GL553VD Istimewa",
+                            "url": "https://www.tokopedia.com/izzahgraha/asus-rog-gl553vd-istimewa?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7000000
+                            },
+                            "shop": {
+                                "name": "izzah graha",
+                                "city": "Kab. Sukoharjo"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713PV RYZEN 9 7845HX RTX4060 16GB 1TB W11 17.3QHD",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-strix-g17-g713pv-ryzen-9-7845hx-rtx4060-16gb-1tb-w11-17-3qhd-unit-only-1daab?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20799000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Laptop Gaming ASUS ROG STRIX G17 G713PV RYZEN 9 7845 32G 1TB RTX4060",
+                            "url": "https://www.tokopedia.com/gaminglaptopid/laptop-gaming-asus-rog-strix-g17-g713pv-ryzen-9-7845-32g-1tb-rtx4060-unit-only-16gb-82738?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20799000
+                            },
+                            "shop": {
+                                "name": "Gaming Laptop ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713RC|RYZEN 7-6800H|16G|512G|RTX3050|17.3\"|W11 OHS",
+                            "url": "https://www.tokopedia.com/smartmediacom/asus-rog-strix-g17-g713rc-ryzen-7-6800h-16g-512g-rtx3050-17-3-w11-ohs-16-gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21999000
+                            },
+                            "shop": {
+                                "name": "Smart Media Computer",
+                                "city": "Makassar"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW Z13 GZ301ZA I5IRXA6TO 2IN1 TOUCH I5 12500H 16GB 512SSD",
+                            "url": "https://www.tokopedia.com/prostorecomputer/asus-rog-flow-z13-gz301za-i5irxa6to-2in1-touch-i5-12500h-16gb-512ssd-laptop-0d0b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 16299000
+                            },
+                            "shop": {
+                                "name": "ProStoreComputer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog strik G531GD i7 gen 9 ram 8 gb ssd 512 vga 4 gtx1050 likenew",
+                            "url": "https://www.tokopedia.com/digitalit22/asus-rog-strik-g531gd-i7-gen-9-ram-8-gb-ssd-512-vga-4-gtx1050-likenew-8-gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 9500000
+                            },
+                            "shop": {
+                                "name": "digital it22",
+                                "city": "Bekasi"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G18 G814JU i7-13650HX RTX4050 512GB FHD 18\" FHD W11 OHS",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-strix-g18-g814ju-i7-13650hx-rtx4050-512gb-fhd-18-fhd-w11-ohs-ram-16gb-d9ed3?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 24149000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 OLED 2024 Ryzen 9 8945HS RTX4070 8GB 32GB",
+                            "url": "https://www.tokopedia.com/kanglaptop/asus-rog-zephyrus-g14-oled-2024-ryzen-9-8945hs-rtx4070-8gb-32gb-unit-zep-g14-rtx-4060-8gb-11541?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 36339000
+                            },
+                            "shop": {
+                                "name": "Kang Laptop",
+                                "city": "Jakarta Selatan"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G15 G513QC R735B6T-O - AMD Ryzen™ 7 5800H Bekas",
+                            "url": "https://www.tokopedia.com/riyanstore25/asus-rog-strix-g15-g513qc-r735b6t-o-amd-ryzen-7-5800h-bekas?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 12000000
+                            },
+                            "shop": {
+                                "name": "riyanstore25",
+                                "city": "Pekanbaru"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 GU603VV RTX4060  I9 13900H 16GB 1TB SSD W11 OHS",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g16-gu603vv-rtx4060-i9-13900h-16gb-1tb-ssd-w11-ohs-unit?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 30799000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G16 GU605MI GeForce RTX 4070 - Ultra 9 185H 32GB 1TB 240Hz OHS",
+                            "url": "https://www.tokopedia.com/nvidiageforcelt/asus-rog-zephyrus-g16-gu605mi-geforce-rtx-4070-ultra-9-185h-32gb-1tb-240hz-ohs-windows-11-home-extra-bundle-266c5?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 43849000
+                            },
+                            "shop": {
+                                "name": "NVIDIA GeForce Laptop",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Flow Z13 GZ301VV I9-13900H RTX4060 16G 1T 13.4\" QHD 165Hz W11",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-flow-z13-gz301vv-i9-13900h-rtx4060-16g-1t-13-4-qhd-165hz-w11?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 34799000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus Gaming ROG Strix G531GD, Core i5-9300H, Ram 8/512Gb, RGB",
+                            "url": "https://www.tokopedia.com/drcomkomputer/asus-gaming-rog-strix-g531gd-core-i5-9300h-ram-8-512gb-rgb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 8750000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG G14 GA403UV | Ryzen 9 8945HS RTX4060 32GB 1TB 14\" OLED W11+OHS",
+                            "url": "https://www.tokopedia.com/agresidjogja/asus-rog-g14-ga403uv-ryzen-9-8945hs-rtx4060-32gb-1tb-14-oled-w11-ohs-platinum-white-452bf?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 36799000
+                            },
+                            "shop": {
+                                "name": "AGRES ID JOGJA",
+                                "city": "Yogyakarta"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 GA403UU RYZEN 7 8845HS 16GB 1TB RTX4050 14\" OLED W11 OHS",
+                            "url": "https://www.tokopedia.com/infonet/asus-rog-zephyrus-g14-ga403uu-ryzen-7-8845hs-16gb-1tb-rtx4050-14-oled-w11-ohs-ohs-m365-9d068?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29339000
+                            },
+                            "shop": {
+                                "name": "Infonet Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ALLY Z1 EXTREME 2023 16GB 512GB SSD WIN 11 FHD 120Hz",
+                            "url": "https://www.tokopedia.com/hotdealcomp/asus-rog-ally-z1-extreme-2023-16gb-512gb-ssd-win-11-fhd-120hz-tetap-512gb-9071c?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7793000
+                            },
+                            "shop": {
+                                "name": "HotdealComp",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G16 G614JU|i7-13650HX|16G|512G|RTX4050 6GB|165HZ|W11",
+                            "url": "https://www.tokopedia.com/smartmediacom/asus-rog-strix-g16-g614ju-i7-13650hx-16g-512g-rtx4050-6gb-165hz-w11-eclips-gray?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 23085000
+                            },
+                            "shop": {
+                                "name": "Smart Media Computer",
+                                "city": "Makassar"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 OLED GA403UV RYZEN 9 8945HS RTX4060 8GB Nebula",
+                            "url": "https://www.tokopedia.com/amd-id/asus-rog-zephyrus-g14-oled-ga403uv-ryzen-9-8945hs-rtx4060-8gb-nebula-32-1t-wht-bonus-standard-3e578?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 36349000
+                            },
+                            "shop": {
+                                "name": "AMD Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 OLED GA403UI RTX4070 8GB Ryzen 9 8945HS 32GB 1TBSSD 14\" QHD 120Hz W11 OHS",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-zephyrus-g14-oled-ga403ui-rtx4070-8gb-ryzen-9-8945hs-32gb-1tbssd-14-qhd-120hz-w11-ohs-non-bundling-32gb-grey-8953d?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 39999000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 GU605MZ OLED RTX4080 12GB Ultra 9-185H 32GB 2TB",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g16-gu605mz-oled-rtx4080-12gb-ultra-9-185h-32gb-2tb-unit-f4da0?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 55499000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G16 GU605MU OLED ULTRA 7 155H RTX4050 16GB 1TB W11",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-zephyrus-g16-gu605mu-oled-ultra-7-155h-rtx4050-16gb-1tb-w11-non-bundling-16gb-cac88?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32759000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG GL553VD, Core i7-7700HQ, 8/1Tb, GTX 1050, Backlight",
+                            "url": "https://www.tokopedia.com/drcomkomputer/asus-rog-gl553vd-core-i7-7700hq-8-1tb-gtx-1050-backlight?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 6250000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 GA403UU-R745OL6G-O Ryzen 7-8845HS RTX4050 16GB 1TB SSD 14\" 3K OLED Win11 OHS - Eclipse Gray",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-zephyrus-g14-ga403uu-r745ol6g-o-ryzen-7-8845hs-rtx4050-16gb-1tb-ssd-14-3k-oled-win11-ohs-eclipse-gray-laptop-d3f22?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 30999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 GU605MV-I946OL7G-O Ultra 9 185H 32GB 1TB SSD RTX4060 8GB 16″ 2.5K OLED 240Hz Win 11 Home OHS Eclipse Gray",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-zephyrus-g16-gu605mv-i946ol7g-o-ultra-9-185h-32gb-1tb-ssd-rtx4060-8gb-16-2-5k-oled-240hz-win-11-home-ohs-eclipse-gray-laptop-a6c5f?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 39999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 GA402NJ RTX3050 RYZEN 7 7735HS RAM 16GB 144HZ",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-zephyrus-g14-ga402nj-rtx3050-ryzen-7-7735hs-ram-16gb-144hz-non-bundle-606b7?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA402NJ Ryzen 7-7735HS 16G 512GB RTX3050 14\" W11",
+                            "url": "https://www.tokopedia.com/wei-1/asus-rog-zephyrus-g14-ga402nj-ryzen-7-7735hs-16g-512gb-rtx3050-14-w11-r735k6g-o-grey-16gb-ram?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20599000
+                            },
+                            "shop": {
+                                "name": "WE iTech",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS Rog Zephyrus G14 GA402NJ Ryzen 7 7735HS RTX3050 6GB/ 16GB 512GB W11+OHS 14.0QHD 120HZ",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-zephyrus-g14-ga402nj-ryzen-7-7735hs-rtx3050-6gb-16gb-512gb-w11-ohs-14-0qhd-120hz-unit-0628c?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 OLED GA403UU R7 8845HS RTX4050 16GB 1TB 14\"QHD",
+                            "url": "https://www.tokopedia.com/agresidbandung/asus-rog-zephyrus-g14-oled-ga403uu-r7-8845hs-rtx4050-16gb-1tb-14-qhd?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29399000
+                            },
+                            "shop": {
+                                "name": "Agres ID Bandung",
+                                "city": "Bandung"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 GA402NJ 2023 R7 7735HS 16GB 512G RTX3050 6GB OHS",
+                            "url": "https://www.tokopedia.com/toptech/asus-rog-zephyrus-g14-ga402nj-2023-r7-7735hs-16gb-512g-rtx3050-6gb-ohs-antigores-16gb-248fe?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21499000
+                            },
+                            "shop": {
+                                "name": "Top Tech",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G15 G513RM AMD RYZEN 7 6800H RTX3060 - 6GB Ram 64GB 1TB SSD FHD IPS 300Hz Windows11",
+                            "url": "https://www.tokopedia.com/upcomid/asus-rog-strix-g15-g513rm-amd-ryzen-7-6800h-rtx3060-6gb-ram-64gb-1tb-ssd-fhd-ips-300hz-windows11-wqhd-165hz-1thn-16gb-1tb-ssd-bc4f8?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 14999000
+                            },
+                            "shop": {
+                                "name": "UPCOM.ID",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G512LI-I75TB6T i7-10750H 8GB 512GB GTX1650Ti 4GB 144Hz",
+                            "url": "https://www.tokopedia.com/hosanacomp/asus-rog-strix-g512li-i75tb6t-i7-10750h-8gb-512gb-gtx1650ti-4gb-144hz?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 19999000
+                            },
+                            "shop": {
+                                "name": "HOSANA COMPUTER",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G513QM Ryzen 7 RTX 3060 8/512GB",
+                            "url": "https://www.tokopedia.com/cekumoku/asus-rog-strix-g513qm-ryzen-7-rtx-3060-8-512gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 10000000
+                            },
+                            "shop": {
+                                "name": "CM Preloved Store",
+                                "city": "Kab. Bandung"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G15 G513QM AMD Ryzen 9-5900HX 16GB 1TB SSD RTX3060 FHD",
+                            "url": "https://www.tokopedia.com/gateway/asus-rog-strix-g15-g513qm-amd-ryzen-9-5900hx-16gb-1tb-ssd-rtx3060-fhd-non-bundling-ram-16gb-34ce4?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 16199000
+                            },
+                            "shop": {
+                                "name": "Gateway Indonesia Comp",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G18 G814JV i7-13650HX RTX4060 512GB FHD 18\" FHD W11 OHS",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-strix-g18-g814jv-i7-13650hx-rtx4060-512gb-fhd-18-fhd-w11-ohs-qhd-ram16gb-a98e8?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29499000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX SCAR 15 G533ZW I9-12900H RTX3070Ti 32G 1T QHD 240Hz W11",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-strix-scar-15-g533zw-i9-12900h-rtx3070ti-32g-1t-qhd-240hz-w11-no-antigores?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 44499000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Ally Portable Gaming AMD Z1 Extreme 512GB SSD 7.0\" FHD 120Hz ",
+                            "url": "https://www.tokopedia.com/distriponsel/asus-rog-ally-portable-gaming-amd-z1-extreme-512gb-ssd-7-0-fhd-120hz-steamdeck-512gb?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7529000
+                            },
+                            "shop": {
+                                "name": "Distributor Ponsel",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G16 G614JIR i9-14900HX RTX4070 1TB SSD 32GBG 240Hz QHD+ Win11+OHS",
+                            "url": "https://www.tokopedia.com/sinarmulia/asus-rog-strix-g16-g614jir-i9-14900hx-rtx4070-1tb-ssd-32gbg-240hz-qhd-win11-ohs-tanpa-antigores-dc974?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 42599000
+                            },
+                            "shop": {
+                                "name": "Sinarmulia Sukses Makmur",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Motherboard Asus ROG GL553VD",
+                            "url": "https://www.tokopedia.com/izzahgraha/motherboard-asus-rog-gl553vd?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 875000
+                            },
+                            "shop": {
+                                "name": "izzah graha",
+                                "city": "Kab. Sukoharjo"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG ZEPHYRUS G16 OLED GU605MV ULTRA 9 185H RTX4060 8GB/ 32gb 1tb W11 + OHS 16.0QHD",
+                            "url": "https://www.tokopedia.com/agresidsurabaya/asus-rog-zephyrus-g16-oled-gu605mv-ultra-9-185h-rtx4060-8gb-32gb-1tb-w11-ohs-16-0qhd-non-paket-32-1tb-a6a15?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 37799000
+                            },
+                            "shop": {
+                                "name": "Agres ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G531GU, Core i7-9750H, 8/512Gb, GTX1660Ti 6Gb",
+                            "url": "https://www.tokopedia.com/drcomkomputer/asus-rog-strix-g531gu-core-i7-9750h-8-512gb-gtx1660ti-6gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 10850000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG STRIX G16 RTX 4070 I9 14900HX 32GB 1TB SSD W 11 + OHS Nebula 240Hz",
+                            "url": "https://www.tokopedia.com/rogonline/asus-rog-strix-g16-rtx-4070-i9-14900hx-32gb-1tb-ssd-w-11-ohs-nebula-240hz-non-paket-ram-64gb-1tbssd-4c49b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 42099000
+                            },
+                            "shop": {
+                                "name": "ROGZ Online",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 Core Ultra 9 185H RTX4060 32Gb 1Tb 16\" 2.5K OLED",
+                            "url": "https://www.tokopedia.com/agresidbandung/asus-rog-zephyrus-g16-core-ultra-9-185h-rtx4060-32gb-1tb-16-2-5k-oled-no-paket-no-upgrade-4c249?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 37799000
+                            },
+                            "shop": {
+                                "name": "Agres ID Bandung",
+                                "city": "Bandung"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW X13 GV302XU RYZEN 9-7940HS 16GB 1TB RTX4050 6GB 13.4\" QHD OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-flow-x13-gv302xu-ryzen-9-7940hs-16gb-1tb-rtx4050-6gb-13-4-qhd-ohs-w11-unit-cad0b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 28749000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G814JV GeForce RTX 4060 - I7 13650HX 16GB 512SSD OHS",
+                            "url": "https://www.tokopedia.com/nvidiageforcelt/asus-rog-strix-g814jv-geforce-rtx-4060-i7-13650hx-16gb-512ssd-ohs-tanpa-antigores-16gbddr5-32f4a?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 27949000
+                            },
+                            "shop": {
+                                "name": "NVIDIA GeForce Laptop",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14.AMD RYZEN 7-5800HS.VGA GEFORCE RTX3050 4GB.RAM16GB.14inch res 2K IPS 120HZ",
+                            "url": "https://www.tokopedia.com/devicecomputer/asus-rog-zephyrus-g14-amd-ryzen-7-5800hs-vga-geforce-rtx3050-4gb-ram16gb-14inch-res-2k-ips-120hz?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 13000000
+                            },
+                            "shop": {
+                                "name": "asus rog gl552vx",
+                                "city": "Kab. Sleman"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow X13 GV302 Touch RTX4070 8GB Ryzen 9 7940HS 32GB 1TB ssd 13.4 QHD+ Nebula",
+                            "url": "https://www.tokopedia.com/ten-com/asus-rog-flow-x13-gv302-touch-rtx4070-8gb-ryzen-9-7940hs-32gb-1tb-ssd-13-4-qhd-nebula-rtx4060-16gb-eb4f4?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 30299000
+                            },
+                            "shop": {
+                                "name": "Ten Com",
+                                "city": "Jakarta Selatan"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 GU605MI OLED RTX4070 8GB Ultra 9 185H 16GB 1TB",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-zephyrus-g16-gu605mi-oled-rtx4070-8gb-ultra-9-185h-16gb-1tb-unit-bc996?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32689000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Notebook ASUS ROG Gaming GA502IU-R766B8T R7 4800HS 8G 512G 1660Ti 15.6",
+                            "url": "https://www.tokopedia.com/dbclick/notebook-asus-rog-gaming-ga502iu-r766b8t-r7-4800hs-8g-512g-1660ti-15-6?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 19890000
+                            },
+                            "shop": {
+                                "name": "dbclick",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 GA403UV Ryzen 9 8945HS RTX 4060 32GB 1TB 3K OLED",
+                            "url": "https://www.tokopedia.com/distrilapid/asus-rog-zephyrus-g14-ga403uv-ryzen-9-8945hs-rtx-4060-32gb-1tb-3k-oled-platinum-white-b9d1d?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 35999000
+                            },
+                            "shop": {
+                                "name": "Distributor Laptop ID",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 OLED GA403UV RTX4060 Ryzen 9-8945HS 16GB 1TB",
+                            "url": "https://www.tokopedia.com/gateway/asus-rog-zephyrus-g14-oled-ga403uv-rtx4060-ryzen-9-8945hs-16gb-1tb-basic-3-32gb-1tb-ssd-05854?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 36749000
+                            },
+                            "shop": {
+                                "name": "Gateway Indonesia Comp",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G16 Ai GA605WI RTX4070 RYZEN AI 9 HX370 32GB 1TB W11 16\" 240HZ",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-zephyrus-g16-ai-ga605wi-rtx4070-ryzen-ai-9-hx370-32gb-1tb-w11-16-240hz-non-bundle-windows-11-home-2fb48?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 45699000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G16 GA605WV RYZEN AI 9 HX 370 32GB 1TB RTX4060 8GB 16\" 2.5K OLED 240Hz OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-zephyrus-g16-ga605wv-ryzen-ai-9-hx-370-32gb-1tb-rtx4060-8gb-16-2-5k-oled-240hz-ohs-w11-unit-35339?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 38699000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Flow X13 GV302XV Ryzen 9-7940HS 16G 1TB RTX4060 13.4\" QHD W11",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-flow-x13-gv302xv-ryzen-9-7940hs-16g-1tb-rtx4060-13-4-qhd-w11?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 30299000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG G703GX-I9863T i9 8950H 64GB 1500GB SSD RTX2080 8GB 144HZ FHD",
+                            "url": "https://www.tokopedia.com/hosanacomp/asus-rog-g703gx-i9863t-i9-8950h-64gb-1500gb-ssd-rtx2080-8gb-144hz-fhd?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 79990000
+                            },
+                            "shop": {
+                                "name": "HOSANA COMPUTER",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G17 G713PV RTX4060 Ryzen 9 7845HX 32GB 1TB 17\"QHD 240Hz",
+                            "url": "https://www.tokopedia.com/gateway/asus-rog-strix-g17-g713pv-rtx4060-ryzen-9-7845hx-32gb-1tb-17-qhd-240hz-non-bundling-ram-16gb-9f933?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20789000
+                            },
+                            "shop": {
+                                "name": "Gateway Indonesia Comp",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G531GT, i7-9750H, 8/512Gb, #1650 4Gb",
+                            "url": "https://www.tokopedia.com/drcomkomputer/asus-rog-strix-g531gt-i7-9750h-8-512gb-1650-4gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 10300000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA402NJ RTX3050 RYZEN 7 7735HS 16GB 512SSD W11",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g14-ga402nj-rtx3050-ryzen-7-7735hs-16gb-512ssd-w11-16-gb-unit?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21299000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G16 GU605MI OLED CORE  ULTRA 9 185H RTX4070 16GB 1TB 16\" 2.5K 240Hz",
+                            "url": "https://www.tokopedia.com/rogsstoreid/asus-rog-zephyrus-g16-gu605mi-oled-core-ultra-9-185h-rtx4070-16gb-1tb-16-2-5k-240hz-no-bundle-185ca?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32699000
+                            },
+                            "shop": {
+                                "name": "ROGS STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Zephyrus G14 Oled GA403UU Ryzen 7 8845HS RTX4050 6GB 16GB 1TB",
+                            "url": "https://www.tokopedia.com/gameridsurabaya/asus-rog-zephyrus-g14-oled-ga403uu-ryzen-7-8845hs-rtx4050-6gb-16gb-1tb-office365-1th-c7e8a?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29399000
+                            },
+                            "shop": {
+                                "name": "Gamer ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 GA403UU RTX4050 RYZEN 7-8845HS 16GB 1TB W11 14\" 120hz",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-zephyrus-g14-ga403uu-rtx4050-ryzen-7-8845hs-16gb-1tb-w11-14-120hz-non-bundle-windows-11-home-1b258?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29399000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow X13 GV301QE 2IN1 TOUCH Ryzen R9 5900 16GB 1TBssd RTX3050",
+                            "url": "https://www.tokopedia.com/decacom/asus-rog-flow-x13-gv301qe-2in1-touch-ryzen-r9-5900-16gb-1tbssd-rtx3050-unit?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 17799000
+                            },
+                            "shop": {
+                                "name": "Deca Computer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Zephyrus G14 GA402RK RYZEN 9 6900HS 16GB 1TBSSD RX6800S W11",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g14-ga402rk-ryzen-9-6900hs-16gb-1tbssd-rx6800s-w11-grey-no-bundle?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 30999000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G512LW, Core i7-10750H, 16Gb/1Tb SSD, RTX2070 8Gb",
+                            "url": "https://www.tokopedia.com/drcomkomputer/asus-rog-strix-g512lw-core-i7-10750h-16gb-1tb-ssd-rtx2070-8gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 13750000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow X13 GV301RE/GV301QE Touch Ryzen 9 6900H/5900H Rtx3050TI 13.4FHD IPS",
+                            "url": "https://www.tokopedia.com/decacom/asus-rog-flow-x13-gv301re-gv301qe-touch-ryzen-9-6900h-5900h-rtx3050ti-13-4fhd-ips-non-bundle-ryzen-9-6900-ed98a?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 17499000
+                            },
+                            "shop": {
+                                "name": "Deca Computer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JU - i7-13650HX 16GB 512GB RTX4050 6GB OHS W11",
+                            "url": "https://www.tokopedia.com/asusstoremakassar/asus-rog-strix-g16-g614ju-i7-13650hx-16gb-512gb-rtx4050-6gb-ohs-w11?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 23085000
+                            },
+                            "shop": {
+                                "name": "Asus Store Makassar",
+                                "city": "Makassar"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Zephyrus G16 GU603ZU RTX4050 i7-12700H 16GB 512GB SSD +OHS ",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g16-gu603zu-rtx4050-i7-12700h-16gb-512gb-ssd-ohs-16gb-512gb-ssd-tanpa-antigores-423c5?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 24999000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 OLED GA403UV Ryzen 9 8945HS RTX4060 8GB 32GB 2TB SSD Win 11 + Office 14\" QHD",
+                            "url": "https://www.tokopedia.com/haercom/asus-rog-zephyrus-g14-oled-ga403uv-ryzen-9-8945hs-rtx4060-8gb-32gb-2tb-ssd-win-11-office-14-qhd-non-bunlding-16gb-1tb-ssd-d3d9f?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32999000
+                            },
+                            "shop": {
+                                "name": "Gadget Sultan ID",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JV i7-13650HX 16GB 1TB RTX4060 8GB OHS W11",
+                            "url": "https://www.tokopedia.com/protechcom/asus-rog-strix-g16-g614jv-i7-13650hx-16gb-1tb-rtx4060-8gb-ohs-w11?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 26499000
+                            },
+                            "shop": {
+                                "name": "Protech Computer",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus AI G16 GA605WV Ryzen AI 9-HX370 RTX4060 32GB 1TB 16” 2.5K 240Hz DCI-P3 100% W11 OHS",
+                            "url": "https://www.tokopedia.com/collinsofficial/asus-rog-zephyrus-ai-g16-ga605wv-ryzen-ai-9-hx370-rtx4060-32gb-1tb-16-2-5k-240hz-dci-p3-100-w11-ohs-ram-32gb-ea426?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 38699000
+                            },
+                            "shop": {
+                                "name": "Collins Official",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Laptop Asus ROG GL553V Intel i7 7700HQ 16GB DDR4 GTX 1050Ti",
+                            "url": "https://www.tokopedia.com/sc-store/laptop-asus-rog-gl553v-intel-i7-7700hq-16gb-ddr4-gtx-1050ti?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 3500000
+                            },
+                            "shop": {
+                                "name": "SC-Store",
+                                "city": "Makassar"
+                            }
+                        },
+                        {
+                            "name": "Motherboard Asus ROG GL503GE",
+                            "url": "https://www.tokopedia.com/izzahgraha/motherboard-asus-rog-gl503ge?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 875000
+                            },
+                            "shop": {
+                                "name": "izzah graha",
+                                "city": "Kab. Sukoharjo"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G15 G513RC RTX3050 RYZEN 7 6800HS 32GB 1TB W11+OHS 4RGB",
+                            "url": "https://www.tokopedia.com/prostorecomputer/asus-rog-strix-g15-g513rc-rtx3050-ryzen-7-6800hs-32gb-1tb-w11-ohs-4rgb-ram-16gb-512ssd-paket-combo?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20399000
+                            },
+                            "shop": {
+                                "name": "ProStoreComputer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus AI G16 OLED GA605WV Ryzen 9 HX370 RTX4060 32GB 1TB 16\" QHD 240Hz",
+                            "url": "https://www.tokopedia.com/agresidbandung/asus-rog-zephyrus-ai-g16-oled-ga605wv-ryzen-9-hx370-rtx4060-32gb-1tb-16-qhd-240hz-no-paket-no-upgrade-eb178?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 38699000
+                            },
+                            "shop": {
+                                "name": "Agres ID Bandung",
+                                "city": "Bandung"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Gaming G531GT/G531GD i7-9750H/I5-9300H Garansi panjang Mulus",
+                            "url": "https://www.tokopedia.com/planetlaptopbandung/asus-rog-gaming-g531gt-g531gd-i7-9750h-i5-9300h-garansi-panjang-mulus?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 9000000
+                            },
+                            "shop": {
+                                "name": "Planet laptop bandung",
+                                "city": "Bandung"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JZR I9 14900HX RTX4080 32GB 1TB W11+OHS 16\" QHD",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-strix-g16-g614jzr-i9-14900hx-rtx4080-32gb-1tb-w11-ohs-16-qhd-non-bundle-32gb-0970f?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 52549000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow Z13 GZ301VV - RTX4060 I9 13900H 16GB 1TBSSD W11+OHS 13.4",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-flow-z13-gz301vv-rtx4060-i9-13900h-16gb-1tbssd-w11-ohs-13-4-no-bundle-be362?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 34199000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Flow X13 GV302XU RTX4050 Ryzen 9 7940HS 16GB 1TB SSD QHD+65Hz",
+                            "url": "https://www.tokopedia.com/agresid/asus-rog-flow-x13-gv302xu-rtx4050-ryzen-9-7940hs-16gb-1tb-ssd-qhd-65hz-non-bundle-windows-11-home-72d68?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 28749000
+                            },
+                            "shop": {
+                                "name": "AGRES ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Phone 8 12/256GB SNAPDRAGON 8 Gen 3 AMOLED GARANSI RESMI ASUS - Storm Grey",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-phone-8-12-256gb-snapdragon-8-gen-3-amoled-garansi-resmi-asus-storm-grey-promo-grey-d2d67?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 10449000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Laptop Gaming Asus Rog G15 G513 Ryzen 7 6800Hs RTX3050 64gb 2tb 144Hz",
+                            "url": "https://www.tokopedia.com/ambass1/laptop-gaming-asus-rog-g15-g513-ryzen-7-6800hs-rtx3050-64gb-2tb-144hz-16gb-1tb-ssd-8e4a7?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 13199000
+                            },
+                            "shop": {
+                                "name": "KLIKNKLIK AMBASSADOR 1",
+                                "city": "Jakarta Selatan"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Strix G16 G614JV-I746C7G-OM Core i7 13650HX 16GB 1TB 4060 W11 OHS 2021  PLUS trial office 365 1th Gray",
+                            "url": "https://www.tokopedia.com/blessingcombali/asus-rog-strix-g16-g614jv-i746c7g-om-core-i7-13650hx-16gb-1tb-4060-w11-ohs-2021-plus-trial-office-365-1th-gray?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 28499000
+                            },
+                            "shop": {
+                                "name": "Blessing Computer Bali",
+                                "city": "Denpasar"
+                            }
+                        },
+                        {
+                            "name": "Laptop Asus ROG Strix G512LI, Core i7-10750H, Gen 10th, Nvidia Geforce GTX 1650Ti 4GB,  Ram 8/512Gb",
+                            "url": "https://www.tokopedia.com/drcomkomputer/laptop-asus-rog-strix-g512li-core-i7-10750h-gen-10th-nvidia-geforce-gtx-1650ti-4gb-ram-8-512gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 11000000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus G14 OLED GA403UU RYZEN 7 8845HS RTX4050 16GB 1TB",
+                            "url": "https://www.tokopedia.com/rogsstoreid/asus-rog-zephyrus-g14-oled-ga403uu-ryzen-7-8845hs-rtx4050-16gb-1tb-standard-54aa2?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29399000
+                            },
+                            "shop": {
+                                "name": "ROGS STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Strix G18 G814JU-I745J8G-O Core i7-13650HX 16GB 512GB SSD RTX4050 6GB 18\" FHD 165Hz Win 11 OHS - Eclipse Gray",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-strix-g18-g814ju-i745j8g-o-core-i7-13650hx-16gb-512gb-ssd-rtx4050-6gb-18-fhd-165hz-win-11-ohs-eclipse-gray-laptop-16gb-512gb-aa004?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 25499000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 GU605MU OLED RTX4060 8GB Ultra 7 155H 16GB 1TB",
+                            "url": "https://www.tokopedia.com/alienwarestore/asus-rog-zephyrus-g16-gu605mu-oled-rtx4060-8gb-ultra-7-155h-16gb-1tb-unit-db0ca?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32759000
+                            },
+                            "shop": {
+                                "name": "ALIENWARE GAMING STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Zephyrus Duo 16 GX650PY-R949M6T-O-Black",
+                            "url": "https://www.tokopedia.com/rogofficialstore/asus-rog-zephyrus-duo-16-gx650py-r949m6t-o-black-32gb-2tb-6ce2c?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 79999000
+                            },
+                            "shop": {
+                                "name": "ROG Official Store",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Laptop Asus ROG Strik GL503VD, Core i7-7700HQ, Ram 16Gb/1Tb+128Gb",
+                            "url": "https://www.tokopedia.com/drcomkomputer/laptop-asus-rog-strik-gl503vd-core-i7-7700hq-ram-16gb-1tb-128gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 8100000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JU Intel Core i7 13650HX 16GB 512GB RTX4050 16\" FHD IPS 100% sRGB",
+                            "url": "https://www.tokopedia.com/starcompsemarang/asus-rog-strix-g16-g614ju-intel-core-i7-13650hx-16gb-512gb-rtx4050-16-fhd-ips-100-srgb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 23200000
+                            },
+                            "shop": {
+                                "name": "StarComp Semarang",
+                                "city": "Semarang"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS M16 GU603HE-I7R5G6T-O i7-11800H 16GB 512GB RTX3050Ti",
+                            "url": "https://www.tokopedia.com/kbm24store/asus-rog-zephyrus-m16-gu603he-i7r5g6t-o-i7-11800h-16gb-512gb-rtx3050ti?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 25990000
+                            },
+                            "shop": {
+                                "name": "KBM 24 STORE",
+                                "city": "Jakarta Pusat"
+                            }
+                        },
+                        {
+                            "name": "Asus Gaming Baby ROG N550JW/ Core i5-4200H/ Nvidia 960M 4Gb, Ram 8/1Tb",
+                            "url": "https://www.tokopedia.com/drcomkomputer/asus-gaming-baby-rog-n550jw-core-i5-4200h-nvidia-960m-4gb-ram-8-1tb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 4500000
+                            },
+                            "shop": {
+                                "name": "dr.com komputer",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG GL504GM 2019 i7 GTX 1060 6GB 144HZ 16/1TB",
+                            "url": "https://www.tokopedia.com/jempolgundam93/asus-rog-gl504gm-2019-i7-gtx-1060-6gb-144hz-16-1tb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 6000000
+                            },
+                            "shop": {
+                                "name": "axbstore",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 OLED GA403U RTX4050 Ryzen 7 8845HS 16gb 1TB QHD",
+                            "url": "https://www.tokopedia.com/agresidtangerang/asus-rog-zephyrus-g14-oled-ga403u-rtx4050-ryzen-7-8845hs-16gb-1tb-qhd-laptop-168af?extParam=cmp%3D1%26ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29399000
+                            },
+                            "shop": {
+                                "name": "Agres ID Tangerang",
+                                "city": "Tangerang"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Zephyrus G16 OLED ULTRA 9 185H RTX4070 8GB/ 32GB 1TB W11+OHS ",
+                            "url": "https://www.tokopedia.com/agresidsurabaya/asus-rog-zephyrus-g16-oled-ultra-9-185h-rtx4070-8gb-32gb-1tb-w11-ohs-non-paket-32-1tb-38950?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 42999000
+                            },
+                            "shop": {
+                                "name": "Agres ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G14 GA402XI RYZEN 9 7940HS RTX4070 8GB 16GB 1TB",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-zephyrus-g14-ga402xi-ryzen-9-7940hs-rtx4070-8gb-16gb-1tb-unit-5c3cc?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 33999000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG Ally X (2024) RC72LA AMD Z1 Extreme ram 24GB ssd 1TB 7\" 120Hz 100% sRGB W11",
+                            "url": "https://www.tokopedia.com/superlarisit/asus-rog-ally-x-2024-rc72la-amd-z1-extreme-ram-24gb-ssd-1tb-7-120hz-100-srgb-w11?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 15649000
+                            },
+                            "shop": {
+                                "name": "Super Laris IT",
+                                "city": "Makassar"
+                            }
+                        },
+                        {
+                            "name": "BNIB Asus ROG ALLY Z1 Extreme 16gb 512gb Garansi Resmi Asus ConsoleROG",
+                            "url": "https://www.tokopedia.com/spctr1/bnib-asus-rog-ally-z1-extreme-16gb-512gb-garansi-resmi-asus-consolerog?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 7250000
+                            },
+                            "shop": {
+                                "name": "SPCTR1",
+                                "city": "Depok"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JU RTX4050 CORE I7 13650HX 32GB 512 SSD 16\"FHD",
+                            "url": "https://www.tokopedia.com/rogsstoreid/asus-rog-strix-g16-g614ju-rtx4050-core-i7-13650hx-32gb-512-ssd-16-fhd-standard-16gb-2e0b8?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22299000
+                            },
+                            "shop": {
+                                "name": "ROGS STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JU I7 13650HX 64GB 2TB SSD RTX4050-6GB WUXGA",
+                            "url": "https://www.tokopedia.com/ambass1/asus-rog-strix-g16-g614ju-i7-13650hx-64gb-2tb-ssd-rtx4050-6gb-wuxga-32gb-1tb-b39ad?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 18999000
+                            },
+                            "shop": {
+                                "name": "KLIKNKLIK AMBASSADOR 1",
+                                "city": "Jakarta Selatan"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JV I9 13980 RTX4060 8GB/ 32GB 1TB W11 16.0FHD",
+                            "url": "https://www.tokopedia.com/alienwareofficial/asus-rog-strix-g16-g614jv-i9-13980-rtx4060-8gb-32gb-1tb-w11-16-0fhd-unit-1d93f?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 24589000
+                            },
+                            "shop": {
+                                "name": "AI Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 New Garansi Resmi",
+                            "url": "https://www.tokopedia.com/kanglaptop/asus-rog-zephyrus-g14-new-garansi-resmi-unit-1dad0?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29199000
+                            },
+                            "shop": {
+                                "name": "Kang Laptop",
+                                "city": "Jakarta Selatan"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G16 OLED GU605MI RTX4070 ULTRA 9 185H 16GB 1TB W11",
+                            "url": "https://www.tokopedia.com/prostorecomputer/asus-rog-zephyrus-g16-oled-gu605mi-rtx4070-ultra-9-185h-16gb-1tb-w11-16gb-1tb-ssd-laptop-772a9?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32689000
+                            },
+                            "shop": {
+                                "name": "ProStoreComputer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS Rog Strix G614JV GeForce RTX 4060 - I7 13650HX 16GB OHS NEBULA QHD",
+                            "url": "https://www.tokopedia.com/nvidiageforcelt/asus-rog-strix-g614jv-geforce-rtx-4060-i7-13650hx-16gb-ohs-nebula-qhd-tanpa-antigores-16gb-0e271?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 26499000
+                            },
+                            "shop": {
+                                "name": "NVIDIA GeForce Laptop",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G14 OLED GA403UV RYZEN 9 8945HS RTX4060 8GB/ 32gb 1tb W11 + OHS 14.0QHD NEBULA 120HZ (BOX MOU) GRY -R946OL7G-O",
+                            "url": "https://www.tokopedia.com/agresidsurabaya/asus-rog-zephyrus-g14-oled-ga403uv-ryzen-9-8945hs-rtx4060-8gb-32gb-1tb-w11-ohs-14-0qhd-nebula-120hz-box-mou-gry-r946ol7g-o-non-paket-32-1tb-48b0b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 35999000
+                            },
+                            "shop": {
+                                "name": "Agres ID Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G614JU-I745J8G-OM  STRIX G16\tI7 13650HX 16GB 512 RTX4050 6GB W11+OHS21+M365 1Y 16\"FHD IPS 100%sRGB 4-ZONE RGB BL GREY",
+                            "url": "https://www.tokopedia.com/agresidsemarang/asus-rog-strix-g614ju-i745j8g-om-strix-g16-i7-13650hx-16gb-512-rtx4050-6gb-w11-ohs21-m365-1y-16-fhd-ips-100-srgb-4-zone-rgb-bl-grey?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 22799000
+                            },
+                            "shop": {
+                                "name": "Agres ID Semarang.",
+                                "city": "Semarang"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JVR CORE I9 14900HX RTX4060 64GB 2TB OHS 16\"",
+                            "url": "https://www.tokopedia.com/rogsstoreid/asus-rog-strix-g16-g614jvr-core-i9-14900hx-rtx4060-64gb-2tb-ohs-16-standard-16gb-1tb-ssd-f5017?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 31699000
+                            },
+                            "shop": {
+                                "name": "ROGS STORE",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713RM|RYZEN 7-6800H|16G|512G|RTX3060|360Hz|W11+OHS",
+                            "url": "https://www.tokopedia.com/smartmediacom/asus-rog-strix-g17-g713rm-ryzen-7-6800h-16g-512g-rtx3060-360hz-w11-ohs?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 20559000
+                            },
+                            "shop": {
+                                "name": "Smart Media Computer",
+                                "city": "Makassar"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW X13 GV302XV RYZEN 9 7940HS RTX4060 8GB 16GB 1TBSSD 120Hz",
+                            "url": "https://www.tokopedia.com/amd-id/asus-rog-flow-x13-gv302xv-ryzen-9-7940hs-rtx4060-8gb-16gb-1tbssd-120hz-16gb-1tb-ssd-standard-e168a?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 30299000
+                            },
+                            "shop": {
+                                "name": "AMD Official Store",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS GA402RJ RX6700 8GB RYZEN 9 6900 16GB 1TBSSD 14QHD",
+                            "url": "https://www.tokopedia.com/gateway/asus-rog-zephyrus-ga402rj-rx6700-8gb-ryzen-9-6900-16gb-1tbssd-14qhd-non-bundling-16gb-1tb-ssd-9a7d4?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 17499000
+                            },
+                            "shop": {
+                                "name": "Gateway Indonesia Comp",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G16 G614JU I7 13650HX RTX4050 32GB 1TB W11+OHS 16.0FHD",
+                            "url": "https://www.tokopedia.com/prostorecomputer/asus-rog-strix-g16-g614ju-i7-13650hx-rtx4050-32gb-1tb-w11-ohs-16-0fhd-no-bag-16-512-laptop-ad05b?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 21899000
+                            },
+                            "shop": {
+                                "name": "ProStoreComputer",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "Asus Rog Ally z1 extreme 1TB 2TB brand new sealed",
+                            "url": "https://www.tokopedia.com/franchise/asus-rog-ally-z1-extreme-1tb-2tb-brand-new-sealed-1tb-d32f2?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 9750000
+                            },
+                            "shop": {
+                                "name": "Franchise Coin Laundry",
+                                "city": "Jakarta Barat"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG STRIX G17 G713RW RYZEN 9 6900 RTX3070TI 8GB/ 32GB 1TB W11",
+                            "url": "https://www.tokopedia.com/gaminglaptopid/asus-rog-strix-g17-g713rw-ryzen-9-6900-rtx3070ti-8gb-32gb-1tb-w11-non-bundling-32gb-5ed08?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 19599000
+                            },
+                            "shop": {
+                                "name": "Gaming Laptop ID",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG ZEPHYRUS G16 GU605MI RTX4070 INTEL ULTRA 9-185H 16GB 1TB SSD 16.0 OLED 2.5K 240HZ",
+                            "url": "https://www.tokopedia.com/gateway/asus-rog-zephyrus-g16-gu605mi-rtx4070-intel-ultra-9-185h-16gb-1tb-ssd-16-0-oled-2-5k-240hz-non-bundling-16gb-1tb-ssd-4b7ae?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 32689000
+                            },
+                            "shop": {
+                                "name": "Gateway Indonesia Comp",
+                                "city": "Jakarta Utara"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG G513ih amd ryzen 7-4800 8/512gb gtx 1650 4 gb mulus like new",
+                            "url": "https://www.tokopedia.com/digitalit22/asus-rog-g513ih-amd-ryzen-7-4800-8-512gb-gtx-1650-4-gb-mulus-like-new-16-gb?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 10000000
+                            },
+                            "shop": {
+                                "name": "digital it22",
+                                "city": "Bekasi"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG GA401QH RYZEN 7-5800HS/8GB/512GB/GTX1650/15,6\"FHD IPS/WIN10+O",
+                            "url": "https://www.tokopedia.com/gudanglaptopsurabaya/asus-rog-ga401qh-ryzen-7-5800hs-8gb-512gb-gtx1650-15-6-fhd-ips-win10-o-buble-wrap?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 1000
+                            },
+                            "shop": {
+                                "name": "Gudang Laptop Surabaya",
+                                "city": "Surabaya"
+                            }
+                        },
+                        {
+                            "name": "Asus ROG Zephyrus G16 GU605MV-I946OL7G-O Ultra 9 185H 32GB 1TB SSD RTX4060 8GB 16″ 2.5K OLED 240Hz W11 OHS",
+                            "url": "https://www.tokopedia.com/multikom-id/asus-rog-zephyrus-g16-gu605mv-i946ol7g-o-ultra-9-185h-32gb-1tb-ssd-rtx4060-8gb-16-2-5k-oled-240hz-w11-ohs?extParam=ivf%3Dfalse%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 38999000
+                            },
+                            "shop": {
+                                "name": "MULTIKOM ID",
+                                "city": "Palembang"
+                            }
+                        },
+                        {
+                            "name": "ASUS ROG FLOW X13 GV302XU Ryzen 9 7940HS RTX4050 6GB/ 16GB 1TB W11+OHS 13.4\" QHD+ Nebula Touchscreen 165Hz 2in1 +PEN",
+                            "url": "https://www.tokopedia.com/artomoro-co/asus-rog-flow-x13-gv302xu-ryzen-9-7940hs-rtx4050-6gb-16gb-1tb-w11-ohs-13-4-qhd-nebula-touchscreen-165hz-2in1-pen-rtx4050-6gb-unit-set-33a45?extParam=ivf%3Dtrue%26keyword%3Dasus+rog%26search_id%3D20241222105334E303C86321214317CU5X%26src%3Dsearch",
+                            "price": {
+                                "number": 29036000
+                            },
+                            "shop": {
+                                "name": "Artomoro Comp",
+                                "city": "Surabaya"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
